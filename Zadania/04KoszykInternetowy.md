@@ -4,7 +4,7 @@ Twoja firma dostała zlecenie na stworzenie oprogramowania dla dużego sklepu in
 Jedną z podstawowych funkcjonalności będzie oprogramowanie koszyka zakupów, 
 który potrafiłby uwzględniać różne promocje, rabaty oraz oferty specjalne, takie jak:
 - jeśli wartość zamówienia jest większa niż 300 zł klient otrzymuje 5% zniżki na zakupione towary
-- jeśli klient kupi 2 produkty to 3 najtańszy otrzymuje gratis
+- jeśli klient kupi 3 produkty to 3 najtańszy otrzymuje gratis
 - jeśli wartość zamówienia przekracza wartość 200 zł klient otrzymuje firmowy kubek gratis
 - jednorazowy kupon rabatowy 30% na wybrany produkt
 
